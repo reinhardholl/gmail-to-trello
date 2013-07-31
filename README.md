@@ -11,7 +11,7 @@ Running this script allows you to automatically create cards on your trello boar
 
 ##Label Template
 
-Your gmail tempalte must look like the following:
+Your gmail template must look like the following:
 
 ###trello: boardName, listName
 
