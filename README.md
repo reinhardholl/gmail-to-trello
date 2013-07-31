@@ -9,7 +9,11 @@ Step by step instructions will follow shorty.  If you have worked with the Trell
 
 Running this script allows you to automatically create cards on your trello boards by just labeling your emails. The subject of the email will be used as the card name and the body of the mail as the description.  I'm planning to automatically transfer attachemtns etc.
 
-Your labels need to have the following layout: trello: boardName, listName
+##Label Template
+
+Your gmail tempalte must look like the following:
+
+###trello: boardName, listName
 
 Note: this is very alpha.
 
